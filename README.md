@@ -3,17 +3,7 @@ This a price comparison app which compares similar product price from different 
 
 
 
-(Team 1)
 
-Members
-
-Dyuti Islam 
-
-Fougia Nigar
-
-Gulshan Ara
-
-Kaniz Fatema
 
 To Do List
 
