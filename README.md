@@ -16,9 +16,15 @@ Gulshan Ara
 Kaniz Fatema
 
 To Do List
+
  Idea generation
- UI Design
+
+ UI design
+
  Database Design
+
  Module design
+
  Authentication - Firebase
+
  Integration
