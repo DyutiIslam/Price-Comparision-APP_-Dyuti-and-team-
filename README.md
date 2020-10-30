@@ -8,9 +8,13 @@ This a price comparison app which compares similar product price from different 
 Members
 
 Dyuti Islam 
+
 Fougia Nigar
+
 Gulshan Ara
+
 Kaniz Fatema
+
 To Do List
  Idea generation
  UI Design
